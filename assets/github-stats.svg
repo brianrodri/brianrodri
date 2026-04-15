@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Brian Rodriguez's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 39, Total Commits  : 6456, Total PRs: 695, Total Issues: 119, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 39, Total Commits  : 6459, Total PRs: 695, Total Issues: 119, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 51.44522217484753;
+        stroke-dashoffset: 51.44423103666704;
       }
     }
   
